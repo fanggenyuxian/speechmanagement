@@ -123,6 +123,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="managementsystem.cpp" />
+    <ClCompile Include="speechmanager.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="speaker.h" />
+    <ClInclude Include="speechmanager.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
