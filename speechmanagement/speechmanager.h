@@ -26,5 +26,5 @@ public:
 	//选手与编号对应的关系
 	map<int, Speaker> m_Speaker;
 	//比赛轮数
-	int m_Index;
+	int m_Index; 
 };

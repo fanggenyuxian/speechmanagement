@@ -4,7 +4,7 @@ SpeechManager::SpeechManager() {
 
 }
 
-void SpeechManager::show_menu() { 
+void SpeechManager::show_menu() {  
 	cout << "********************************************" << endl;
 	cout << "*************  欢迎参加演讲比赛 ************" << endl;
 	cout << "*************  1.开始演讲比赛  *************" << endl;

@@ -8,7 +8,7 @@ int main() {
 
 	int choice;
 
-	while (true) {
+	while (true) { 
 
 		sm.show_menu();
 
