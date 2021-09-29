@@ -16,7 +16,7 @@ int main() {
 		cin >> choice;
 
 		switch (choice)
-		{
+		{ 
 		case 1:
 			break;
 		case 2:
